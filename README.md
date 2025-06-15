@@ -1,4 +1,4 @@
-  # 💫 About Me:
+ # 💫 About Me:
 👨‍💻 Hey, I'm Abdiladif,<br><br> MERN stack developer | UI Enthusiast | JavaScript Lover.<br><br>I craft pixel-perfect, interactive web experiences with clean, efficient code. Passionate about turning ideas into fast, accessible, and visually stunning websites.
 
 
