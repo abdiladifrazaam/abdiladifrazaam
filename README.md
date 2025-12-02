@@ -1,5 +1,5 @@
  # 💫 About Me:
-👨‍💻 Hey, I'm Abdiladif,<br><br> MERN stack developer | Master In React | JavaScript Lover|Quick .<br><br>I craft pixel-perfect, interactive web experiences with clean, efficient code. Passionate about turning ideas into fast, accessible, and  visually stunning websites.
+👨‍💻 Hey, I'm Abdiladif,<br><br> MERN stack developer | Master In React | JavaScript Lover|Quick learner .<br><br>I craft pixel-perfect, interactive web experiences with clean, efficient code. Passionate about turning ideas into fast, accessible, and  visually stunning websites.
 
 
 ## 🌐 Socials:
