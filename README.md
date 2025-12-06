@@ -1,5 +1,9 @@
- # 💫 About Me:
-👨‍💻 Hey, I'm Abdiladif,<br><br> MERN stack developer | Master In React | JavaScript Lover | Quick learner .<br><br>I craft pixel-perfect, interactive web experiences with clean, efficient code. Passionate about turning ideas into fast, accessible, and  visually stunning websites.
+ # 💫 About Me
+
+👋 Hi! I’m Abdiladif — a passionate Frontend Developer specializing in React.js, Next.js, and modern UI engineering.
+I build fast, accessible, and visually polished web interfaces that integrate seamlessly with any backend.
+
+I love crafting pixel-perfect UIs, writing clean code, and turning ideas into smooth, interactive digital experiences.
 
 
 ## 🌐 Socials:
