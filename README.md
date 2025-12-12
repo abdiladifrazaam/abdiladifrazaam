@@ -1,7 +1,7 @@
 About Me
    
 Hi! I’m Abdiladif, a passionate Frontend Developer specializing in React.js, Next.js, and modern UI engineering.
-I build fast, accessible, and visually polished web interfaces that integrate seamlessly with any backend.   
+I build fast, accessible, and visually polished web interfaces that integrate seamlessly with any backend.
 
 I love crafting pixel-perfect UIs, writing clean code, and turning ideas into smooth, interactive digital experiences.
 
