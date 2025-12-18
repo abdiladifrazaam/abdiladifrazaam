@@ -1,4 +1,4 @@
-Hi! I’m Abdiladif  
+Hi! I’m Abdiladif    
  
 a passionate Mobile & Frontend Developer specializing in React Native, React.js, and modern UI engineering.
    
