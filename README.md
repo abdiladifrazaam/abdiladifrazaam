@@ -1,6 +1,7 @@
 Hi! I’m Abdiladif 
   
 a passionate Mobile & Frontend Developer specializing in React Native, React.js, and modern UI engineering.
+
    I build fast, scalable, and accessible mobile applications with clean architecture and polished user experiences. My focus is on crafting pixel-perfect interfaces, writing maintainable code, and turning ideas into smooth, high-performance digital products.
 
 I enjoy working close to the UI layer—bringing designs to life, optimizing performance, and ensuring apps feel natural on both Android and iOS. Whether it’s a startup MVP or a production-ready app, I care deeply about quality, usability, and code clarity.
