@@ -5,7 +5,7 @@ a passionate Mobile & Frontend Developer specializing in React Native, React.js,
    I build fast, scalable, and accessible mobile applications with clean architecture and polished user experiences. My focus is on crafting pixel-perfect interfaces, writing maintainable code, and turning ideas into smooth, high-performance digital products.
 
 I enjoy working close to the UI layer—bringing designs to life, optimizing performance, and ensuring apps feel natural on both Android and iOS. Whether it’s a startup MVP or a production-ready app, I care deeply about quality, usability, and code clarity.
-
+  
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdiladif-mohamoud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdilathifnasri@gmail.com) 
