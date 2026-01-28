@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGqIgmfS8wZ3w/profile-displaybackgroundimage-shrink_350_1400/B56ZoJBvoAG4AY-/0/1761088045129?e=1771459200&v=beta&t=1Ntu5dF82y9c1tAWHXZsajcfldfHldd0PvHHig-GvgE" alt="Profile Banner" width="100%" />
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm Abdiladif Mohamoud
 
