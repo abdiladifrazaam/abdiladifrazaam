@@ -4,8 +4,6 @@
 
 ### A passionate developer from Somalia
 
-<img src="https://avatars.githubusercontent.com/u/171628367?v=4" alt="Abdiladif Mohamoud" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 🚀 About Me
