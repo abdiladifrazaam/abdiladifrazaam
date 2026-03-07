@@ -29,7 +29,7 @@ Bachelor of Science in Software Engineering
 I completed a comprehensive 5-year Software Engineering degree, where I built a strong foundation in both theoretical and practical aspects of software development.
 The program covered core computer science and engineering topics including:
 
-Data Structures & Algorithms
+ Data Structures & Algorithms
 Object-Oriented Programming
 Software Design & Architecture
 Databases & Operating Systems
