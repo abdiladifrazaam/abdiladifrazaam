@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Abdiladif Mohamoud  
  
-### A passionate developer from Somalia 
+### A passionate developer from Somalia  
   
 </div>   
  
