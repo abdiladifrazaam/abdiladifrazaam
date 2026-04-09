@@ -1,8 +1,8 @@
 <div align="center">          
   
  
-Hi there, I'm Abdiladif Mohamoud         
- 
+Hi there, I'm Abdiladif Mohamoud          
+  
 ### A passionate developer from Somalia       
    
 </div>     
