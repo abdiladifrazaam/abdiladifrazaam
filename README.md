@@ -5,7 +5,7 @@ Hi there, I'm Abdiladif Mohamoud
 
    
 </div>     
-
+ 
 Hi 👋  I’m Abdiladif, a passionate software developer focused on building real-world, impactful applications.
 
 I enjoy turning ideas into functional products, with strong experience in frontend and mobile development, especially using React, React Native, and modern JavaScript. I’m highly interested in startup-oriented products, system design, and problem-solving through code.
