@@ -1,141 +1,124 @@
-<div align="center">            
- 
-Hi there, I'm Abdiladif Mohamoud       s
-
-  #### A passionate developer from Somalia      
-  
-  
-</div>        
- 
-Hi 👋  I’m Abdiladif, a passionate software developer focused on building real-world, impactful applications.
-
-I enjoy turning ideas into functional products, with strong experience in frontend and mobile development, especially using React, React Native, and modern JavaScript. I’m highly interested in startup-oriented products, system design, and problem-solving through code.
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Arbaminch University  | Bachelor's | 2021-09 - 2026-06 |
-
-### Bachelor's in Software Engineering
-*Arbaminch University *
-
-🎓 Education
-
-Bachelor of Science in Software Engineering
-5-Year Undergraduate Program
-
-I completed a comprehensive 5-year Software Engineering degree, where I built a strong foundation in both theoretical and practical aspects of software development.
-The program covered core computer science and engineering topics including:
-
- Data Structures & Algorithms
-Object-Oriented Programming
-Software Design & Architecture
-Databases & Operating Systems
-Software Development Lifecycle (SDLC)
-Web & Mobile Application Development
-
-Throughout my studies, I worked on individual and team-based projects, applying classroom knowledge to solve real-world problems and develop functional software systems.
-
-
-
-## 💼 Internships
-
-| Company | Position | Duration |
-|---|---|---|
-| Eaglelion system technology PLC | Frontend Developer | 2025-03 - 2025-06 |
-
-### Frontend Developer at Eaglelion system technology PLC
-
-💼 Internship Experience
-
-Software Engineering Intern
-4-Month Industry Internship
-
-I completed a 4-month internship where I gained hands-on experience in a real development environment. During this period, I:
-
-Contributed to real projects under senior developer supervision
-Built and improved frontend and mobile application features
-Worked with React and React Native in production-like workflows
-Collaborated using Git & GitHub for version control
-Learned professional practices such as code reviews, debugging, and task-based development
-
-This internship strengthened my ability to translate requirements into working code and adapt quickly to new tools and technologies.
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **abdilathifnasri@gmail.com**
-
-</div>
-
-## 🌐 Connect with Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/abdiladif-mohamoud-33882a365/)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/in/abdiladif-mohamoud-33882a365)
+<!-- Animated typing greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdiladif+Razaam+%F0%9F%91%8B;Passionate+Full-Stack+Developer;Web+%26+Mobile+Application+Builder;Open-Source+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdiladifrazaam&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/abdiladifrazaam?tab=followers">
+  <img src="https://img.shields.io/github/followers/abdiladifrazaam?label=Followers&style=flat-square&color=6C63FF" alt="GitHub Followers" />
+</a>
 
 </div>
+
+---
+
+## 🙋‍♂️ About Me
+
+Hey! I'm **Abdiladif Razaam** — a passionate software developer from 🇸🇴 **Somalia**, currently studying **Software Engineering** at *Arbaminch University* (2021 – 2026).
+
+I love turning ideas into fully functional products. My focus areas are:
+
+- 🌐 **Web development** — building modern, responsive, performant UIs
+- 📱 **Mobile development** — crafting smooth cross-platform apps with React Native
+- 🚀 **Startup-oriented products** — I think product-first and code second
+- 🔓 **Open-source** — I believe in sharing knowledge and giving back to the community
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 💻 Frontend Development
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💻 Backend Development
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 💻 Mobile App Development
+---
 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+## 🚀 Featured Projects
 
-### 💻 Database
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🛒 [**Ecommerce-Web**](https://github.com/abdiladifrazaam/Ecommerce-Web) | A full-featured online shopping platform with product browsing, cart management, and checkout functionality. | — |
+| 💬 [**Somchat**](https://github.com/abdiladifrazaam/Somchat) | Real-time chat application with user authentication, live messaging, and a clean modern UI. | — |
+| 🎯 [**Goal-Manager-App**](https://github.com/abdiladifrazaam/Goal-Manager-App) | React Native mobile app for setting, tracking, and completing personal goals on the go. | — |
+| 🌐 [**my-portifolio**](https://github.com/abdiladifrazaam/my-portifolio) | Animated personal portfolio website showcasing projects, skills, and experience. | [🔗 abdiladif.vercel.app](https://abdiladif.vercel.app) |
+| 👟 [**Nike-App**](https://github.com/abdiladifrazaam/Nike-App) | A sleek Nike-themed product showcase app built with React and modern styling. | [🔗 nike-app-lime.vercel.app](https://nike-app-lime.vercel.app) |
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-### 💻 DevOps
+## 📊 GitHub Stats
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-### 💻 Backend as a Service (BaaS)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdiladifrazaam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiladifrazaam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/><br/>
 
-### 💻 Framework
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdiladifrazaam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+</div>
 
-### 💻 Software
+---
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🎓 Education & Experience
 
-### 💻 Static Site Generators
+| 🏫 Institution / Company | 📌 Role | 📅 Period |
+|--------------------------|---------|-----------|
+| Arbaminch University | BSc Software Engineering | Sep 2021 – Jun 2026 |
+| Eaglelion System Technology PLC | Frontend Developer Intern | Mar 2025 – Jun 2025 |
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+---
 
-### 💻 Game Engines
+## 📬 Contact & Connect
 
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+<div align="center">
 
-### 💻 Other
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdiladif.vercel.app)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdilathifnasri@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiladif-mohamoud-33882a365/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdiladifrazaam)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdiladifrazam&color=brightgreen&style=flat-square&label=Profile+Views)
+**✨ Thanks for stopping by — feel free to explore my repos and leave a ⭐ if something catches your eye! ✨**
 
 </div>
