@@ -2,8 +2,6 @@
  
 Hi there, I'm Abdiladif Mohamoud 
 
-s
-
   #### A passionate developer from Somalia      
   
   
