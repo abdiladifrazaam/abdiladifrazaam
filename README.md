@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20👋%20I’m%20Abdiladif%20Mohamoud&fontSize=36&fontAlignY=38" alt="banner"/>
 </p> 
      
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=abdiladifrazaam&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p> 
  
