@@ -29,7 +29,7 @@
 ✨ I love turning ideas into products, with strong experience in **frontend** and **mobile development**, especially using **React**, **React Native**, and modern **JavaScript**.  
 🌱 I’m highly interested in startups and open to innovative collaborations.
 
----
+--- 
 
 ## 🛠️ Skills & Technologies
 
