@@ -130,13 +130,15 @@ These are small things many developers *don’t* include, but they help show mat
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Languages
+
+> If you see broken images here, re-check your username and try refreshing (these are external services).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdiladifrazaam&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdiladifrazaam&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiladifrazaam&theme=radical" alt="GitHub streak" height="160"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiladifrazaam&layout=compact&theme=radical&langs_count=8" alt="Top languages" height="135"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiladifrazaam&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top languages" height="135"/>
 </p>
 
 ---
