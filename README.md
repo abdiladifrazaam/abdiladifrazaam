@@ -100,7 +100,7 @@ Most profiles only show tools — I also show how I work:
 </details>
 
 ---
-
+<!--- 
 ## 📌 Featured Projects (Add yours here)
 
 > Replace the placeholders with your real projects. This section makes your profile look **professional** and helps recruiters quickly see your work.
@@ -116,7 +116,7 @@ Most profiles only show tools — I also show how I work:
 - **Project 3 — API / Backend**: _Short 1-line description_  
   **Stack:** Express, MongoDB, JWT  
   **Repo:** (link)
-
+ -->
 ---
 
 ## 🧪 Developer Toolbox (Unique extras)
