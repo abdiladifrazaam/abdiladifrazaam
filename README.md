@@ -1,7 +1,7 @@
 <!-- Profile Banner (refresh + clean) -->
 <p align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Abdiladif%20Mohamoud&fontSize=44&fontAlignY=40" alt="banner"/>
-</p> c s
+</p>
 <p align="center">
   <b>MERN Stack Developer</b> • Frontend & Mobile (React / React Native) • Building real-world products
 </p>
