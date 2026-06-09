@@ -6,7 +6,7 @@
   <b>MERN Stack Developer</b> • Frontend & Mobile (React / React Native) • Building real-world products
 </p>
   
-<p align="center">
+<p align="center"> 
   <a href="https://komarev.com/ghpvc/?username=abdiladifrazaam&color=brightgreen&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=abdiladifrazaam&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
