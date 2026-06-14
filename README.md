@@ -1,6 +1,7 @@
 <!-- Profile Banner (refresh + clean) --> 
-<p align="center">     
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&height=190&section=header&text=Abdiladif%20Mohamoud&fontSize=44&fontAlignY=40" alt="banner"/>  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
+</p> 
   
 </p>     
 <p align="center">   
