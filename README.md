@@ -1,5 +1,5 @@
 <!-- Profile Banner (refresh + clean) --> 
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 </p>  
 </p>         
