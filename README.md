@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 </p>   
 </p>          
-<p align="center">   
+<p align="center">    
   <b>MERN Stack Developer</b> • Frontend & Mobile (React / React Native) • Building real-world products
 </p>  
 <p align="center">  
