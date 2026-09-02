@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdiladif%20Mohamoud&fontAlign=50&fontAlignY=40&color=0:0ea5e9,50:8b5cf6,100:22c55e&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20%26%20Mobile%20Apps&descAlign=50&descAlignY=62" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdiladif%20Mohamoud&fontAlign=50&fontAlignY=40&color=0:0ea5e9,50:8b5cf6,100:22c55e&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20%26%20Mobile%20Apps&descAlign=50&descAlignY=62" alt="Header banner"/>
 
 # 👋 Hi, I’m Abdiladif Mohamoud
 
