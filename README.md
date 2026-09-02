@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdiladif%20Mohamoud&fontAlign=50&fontAlignY=40&color=0:0ea5e9,50:8b5cf6,100:22c55e&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%E2%80%A2%20React%20/%20React%20Native%20%E2%80%A2%20Building%20Real-World%20Products&descAlignY=63&animation=fadeIn" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdiladif%20Mohamoud&fontAlign=50&fontAlignY=40&color=0:0ea5e9,50:8b5cf6,100:22c55e&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20%26%20Mobile%20Apps&descAlign=50&descAlignY=62" alt="Header banner" />
 
 # 👋 Hi, I’m Abdiladif Mohamoud
 
@@ -101,6 +101,12 @@ I’m a **MERN Stack Developer** who enjoys turning ideas into useful digital pr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiladifrazaam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="140" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdiladifrazaam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 ---
