@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Abdiladif Mohamoud
  
-### Software Developer from Somalia 🇸🇴  
+### Software Developer from Somalia
   
 <p>
   <a href="https://komarev.com/ghpvc/?username=abdiladifrazaam&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS">
