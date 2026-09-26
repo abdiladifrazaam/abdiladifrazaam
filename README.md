@@ -15,7 +15,7 @@
   </a>
   <a href="https://github.com/abdiladifrazaam?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-Explore-2563eb?style=for-the-badge&logo=github" alt="Public repos" />
-  </a>
+  </a> 
 </p>
 
 <p>
