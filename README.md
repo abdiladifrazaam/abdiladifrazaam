@@ -41,7 +41,7 @@
 
 ## 🧭 Who I Am
 
-> I'm a **Software Engineering student** at Arbaminch University and a **MERN Stack Developer** who loves shipping products that feel fast, look clean, and just work.
+> I'm a **MERN Stack Developer** who loves shipping products that feel fast, look clean, and just work.
 
 I don't just write code — I design **systems**, structure **codebases**, and think about **real users**. Whether it's a React dashboard, a Node API, or a React Native app, my goal is always the same: **build things that scale and stay maintainable.**
 
@@ -159,6 +159,10 @@ I don't just write code — I design **systems**, structure **codebases**, and t
 **Frontend Developer Intern** — Eaglelion System Technology PLC  
 *Mar 2025 – Jun 2025*
 
+**Director of Technology and Digital innovation** — Horn of africa youth action(HOAY)  
+*AUG 2026 – Present*
+
+
 - Built and improved web & mobile features using **React** and **React Native**
 - Collaborated in agile teams through code reviews, debugging, and iterative delivery
 
@@ -193,9 +197,9 @@ I'm always open to **collaboration**, **internships**, and **startup projects** 
 | | |
 |---|---|
 | 🟢 **Status** | Available for MERN Projects · Frontend Roles · React Native Work |
-| 🌍 **Location** | Somalia |
+| 🌍 **Location** | ethiopia |
 | 🕐 **Timezone** | East Africa Time (EAT) |
-| 📅 **Graduating** | June 2026 |
+
 
 <br/>
 
