@@ -8,7 +8,7 @@
 
 *I build clean, scalable web & mobile experiences — from database to pixel.*
   
-<p>
+<p> 
   <a href="https://komarev.com/ghpvc/?username=abdiladifrazaam">
     <img src="https://komarev.com/ghpvc/?username=abdiladifrazaam&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
