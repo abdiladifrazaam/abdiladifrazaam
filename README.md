@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Abdiladif%20Mohamoud&fontAlign=50&fontAlignY=38&fontSize=52&color=0:0ea5e9,50:8b5cf6,100:22c55e&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Turning%20Ideas%20Into%20Scalable%20Products&descAlign=50&descAlignY=58&descSize=18" alt="Header banner"/>
 
-# 👋 Hey, I'm Abdiladif
+# 👋 Hey, I'm Abdiladif 
 
 ### 🧑‍💻 Software Engineer & MERN Stack Developer from 🇸🇴 Somalia
 
