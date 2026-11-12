@@ -6,7 +6,7 @@
       
 ### 🧑‍💻 Software Engineer & MERN Stack Developer from 🇸🇴 Somalia  
  
-*I build clean, scalable web & mobile experiences — from database to pixel.*  
+*I build clean, scalable web & mobile experiences — from database to pixel.*    
     
 <p> 
   <a href="https://komarev.com/ghpvc/?username=abdiladifrazaam">
